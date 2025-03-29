@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 Yo, ik ben HGQE (aka Rukluf)
 
-<!--
-**hgqedevelopment/hgqedevelopment** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Full-stack developer & Minecraft plugin developer  
+🧠 Gespecialiseerd in: Spigot, Java, Discord bots & webdev  
+🌍 Werk aan eigen projecten én voor servers zoals **SpecialMT**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Mijn skills
+- 🧱 Minecraft plugins (1.8 – 1.20+)
+- 🤖 Discord bots met Java & Node.js
+- 🌐 HTML / CSS / JavaScript websites
+- 🔐 Backend (Java, PHP, API koppelingen)
+
+---
+
+## 🛠️ Projecten
+- 🧩 **Minecraft Plugins** – custom weapons, minigames, GUIs, economy en meer
+- 🤖 **Discord bots** – auto-mod, reaction roles, muziek & utilities
+- 🛒 **Webshop systeem** – gekoppeld aan Minecraft plugins via API’s
+- 💼 Portfolio: https://jouwgebruikersnaam.github.io/hgqe-portfolio
+
+---
+
+## 📫 Contact
+- Discord: `hgqe_development`
+
+> “Code is like magic — als jij de tovenaar bent.” 🧙‍♂️
