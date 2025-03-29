@@ -18,11 +18,10 @@
 - 🧩 **Minecraft Plugins** – custom weapons, minigames, GUIs, economy en meer
 - 🤖 **Discord bots** – auto-mod, reaction roles, muziek & utilities
 - 🛒 **Webshop systeem** – gekoppeld aan Minecraft plugins via API’s
-- 💼 Portfolio: https://jouwgebruikersnaam.github.io/hgqe-portfolio
 
 ---
 
 ## 📫 Contact
 - Discord: `hgqe_development`
 
-> “Code is like magic — als jij de tovenaar bent.” 🧙‍♂️
+> “Code is like magic — als jij de tovenaar bent!” 🧙‍♂️
